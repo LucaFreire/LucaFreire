@@ -1,17 +1,16 @@
 
-<h2>Olá! Eu sou o Lucas Freire😉🌹</h2>
+<h2>Olá! Eu sou o Lucas Freire😘🌹</h2>
 <h3>- Tenho 17 Anos e Estou:</h3>
 <h4>- Cursando Engenharia de Software, 1º Semestre👨‍🎓</h4>  
-<h4>- Estudando Python e Javascript👨‍💻</h4>
+<h4>- Estudando Python, Javascript e DOS👨‍💻</h4>
 <h4>- Foco de Carreira: Cybersecurity💻🔓</h4>
-
 <h5>- Meus Contatos: </h5>
 
- <div>        
+<div>        
  <a href= "https://www.linkedin.com/in/lucas-freire-0ba260232/"   target="_blank"><image src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href = "mailto:lucasrodifreire@gmail.com?subject=Olá, Lucas Freire! (from github)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href= "https://www.instagram.com/" target="_blank"><image src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- </div>
+ <a href= "https://www.instagram.com/lucas_rodrigueszz" target="_blank"><image src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
    
 <div>
  <a href="https://github.com/LucaFreire">
@@ -21,8 +20,7 @@
  
 <div style="display: inline_block"><br> 
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
- 
-          
 </div>
