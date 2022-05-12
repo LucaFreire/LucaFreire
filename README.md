@@ -1,5 +1,5 @@
 
-<h2>Olá! Eu sou o Lucas Freire😘🌹</h2>
+<h2>Olá! Eu sou o Lucas Freire😉</h2>
 <h3>- Tenho 17 Anos e Estou:</h3>
 <h4>- Cursando Engenharia de Software, 1º Semestre👨‍🎓</h4>  
 <h4>- Estudando Python, Javascript e DOS👨‍💻</h4>
@@ -14,8 +14,8 @@
    
 <div>
  <a href="https://github.com/LucaFreire">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaFreire&theme=blueberry">
- <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFreire&layout=compact&langs_count=168&theme=blueberry"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucaFreire&theme=blueberry">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFreire&layout=compact&langs_count=168&theme=blueberry"/>
 </div>
  
 <div style="display: inline_block"><br> 
