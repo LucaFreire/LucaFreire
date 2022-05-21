@@ -9,7 +9,6 @@
 <div>        
  <a href= "https://www.linkedin.com/in/lucas-freire-0ba260232/"   target="_blank"><image src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href = "mailto:lucasrodifreire@gmail.com?subject=Olá, Lucas Freire! (from github)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href= "https://www.instagram.com/lucas_rodrigueszz" target="_blank"><image src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
    
 <div>
