@@ -22,5 +22,7 @@
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />        
+ <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />      
+ <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+          
 </div>
