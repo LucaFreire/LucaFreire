@@ -2,7 +2,7 @@
 <h2>Olá! Eu sou o Lucas Freire😉</h2>
 <h3>- Tenho 17 Anos e Estou:</h3>
 <h4>- Cursando Engenharia de Software, 1º Semestre👨‍🎓</h4>  
-<h4>- Estudando Python, C++ e DOS👨‍💻</h4>
+<h4>- Estudando Python, C e DOS👨‍💻</h4>
 <h4>- Foco de Carreira: Cybersecurity💻🔓</h4>
 <h5>- Meus Contatos: </h5>
 
@@ -23,6 +23,6 @@
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />      
- <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+ 
           
 </div>
