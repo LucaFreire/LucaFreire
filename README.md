@@ -1,9 +1,9 @@
 
 <h2>Olá! Eu sou o Lucas Freire😉</h2>
 <h3>- Tenho 17 Anos e Estou:</h3>
+<h4>- Aprendiz de Desenvolvimento de Sistemas na Bosch🏭</h4>
 <h4>- Cursando Engenharia de Software, 2º Semestre👨‍🎓</h4>  
-<h4>- Estou cursando Técnico em Desenvolvimento de Ssistemas 💻</h4>
-<h4>- Aprendiz de Desenvolvimento de Sistemas na Bosch</h4>
+<h4>- Cursando Técnico em Desenvolvimento de Sistemas💻</h4>
 <h5>- Meus Contatos: </h5>
 
 <div>        
@@ -19,8 +19,6 @@
  
 <div style="display: inline_block"><br> 
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
- <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />      
  
