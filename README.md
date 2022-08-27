@@ -1,9 +1,9 @@
 
 <h2>Olá! Eu sou o Lucas Freire😉</h2>
 <h3>- Tenho 17 Anos e Estou:</h3>
-<h4>- Cursando Engenharia de Software, 1º Semestre👨‍🎓</h4>  
-<h4>- Estudando Python, C e DOS👨‍💻</h4>
-<h4>- Foco de Carreira: Cybersecurity💻🔓</h4>
+<h4>- Cursando Engenharia de Software, 2º Semestre👨‍🎓</h4>  
+<h4>- Estou cursando Técnico em Desenvolvimento de Ssistemas 💻</h4>
+<h4>- Aprendiz de Desenvolvimento de Sistemas na Bosch</h4>
 <h5>- Meus Contatos: </h5>
 
 <div>        
