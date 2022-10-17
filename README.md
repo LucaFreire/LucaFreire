@@ -18,9 +18,6 @@
 </div>
  
 <div style="display: inline_block"><br> 
- <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />      
- 
-          
+ <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
 </div>
