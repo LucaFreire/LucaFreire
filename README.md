@@ -1,6 +1,6 @@
 
 <h2>Olá, Sou o Lucas Freire!</h2>
-<h3>- Tenho 17 anos e estou:</h3>
+<h3>- Tenho 18 anos e estou:</h3>
 <h4>- Aprendiz de Desenvolvimento de Sistemas na Bosch🏭</h4>
 <h4>- Cursando Engenharia de Software, 2º Semestre👨‍🎓</h4>  
 <h4>- Cursando Técnico em Desenvolvimento de Sistemas💻</h4>
