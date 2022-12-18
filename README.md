@@ -20,4 +20,5 @@
 <div style="display: inline_block"><br> 
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img height="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+ <img height="45" img src="https://cdn.iconscout.com/icon/free/png-128/sql-4-190807.png" />
 </div>
