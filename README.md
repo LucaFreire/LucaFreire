@@ -1,14 +1,14 @@
 
-<h2>Olá, Sou o Lucas Freire!</h2>
-<h3>- Tenho 18 anos e estou:</h3>
-<h4>- Aprendiz de Desenvolvimento de Sistemas na Bosch🏭</h4>
-<h4>- Cursando Engenharia de Software, 2º Semestre👨‍🎓</h4>  
-<h4>- Cursando Técnico em Desenvolvimento de Sistemas💻</h4>
-<h5>- Meus Contatos: </h5>
+<h2>Hello, I'm Lucas Freire!</h2>
+<h3>- I'm 18 years old and I'm:</h3>
+<h4>- Systems Development Apprentice at Bosch🏭</h4>
+<h4>- Studying Software Engineering, 2º semester👨‍🎓</h4>  
+<h4>- Studying System Development Technician, 1º Semester💻</h4>
+<h5>- My contacts: </h5>
 
 <div>        
  <a href= "https://www.linkedin.com/in/lucas-freire-0ba260232/"   target="_blank"><image src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href = "mailto:lucasrodifreire@gmail.com?subject=Olá, Lucas Freire! (from github)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:lucasrodifreire@gmail.com?subject=Hello, Lucas Freire! (from github)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
    
 <div>
