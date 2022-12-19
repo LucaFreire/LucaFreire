@@ -2,7 +2,7 @@
 <h2>Hello, I'm Lucas Freire!</h2>
 <h3>- I'm 18 years old and I'm:</h3>
 <h4>- Systems Development Apprentice at Bosch🏭</h4>
-<h4>- Studying Software Engineering, 2º semester👨‍🎓</h4>  
+<h4>- Studying Software Engineering, 2º Semester👨‍🎓</h4>  
 <h4>- Studying System Development Technician, 1º Semester💻</h4>
 <h5>- My contacts: </h5>
 
