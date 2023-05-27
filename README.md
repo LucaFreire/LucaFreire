@@ -13,8 +13,7 @@
    
 <div>
  <a href="https://github.com/LucaFreire">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucaFreire&theme=blueberry">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFreire&layout=compact&langs_count=168&theme=blueberry"/>
+ <img height="225em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaFreire&layout=compact&langs_count=168&theme=blueberry"/>
 </div>
  
 <div style="display: inline_block"><br> 
