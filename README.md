@@ -2,8 +2,8 @@
 <h1>Hello, I'm Lucas Freire!</h1>
 <h3>- I'm 19 years old and I'm:</h3>
 <h4>- Software Developer at Bosch🏭</h4>
-<h4>- Bachelor's in Software Engineering, 5th Semester👨‍🎓</h4>  
-<h4>- Associate Degree in Systems Development, 4th Semester💻</h4>
+<h4>- Bachelor's in Software Engineering, 4th Semester👨‍🎓</h4>  
+<h4>- Associate Degree in Systems Development💻</h4>
 
 <div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/lucas-freire-0ba260232/" target="_blank"><image src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
