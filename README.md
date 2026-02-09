@@ -1,8 +1,7 @@
 
 <h1>Hello, I'm Lucas Freire!</h1>
-<h3>- I'm 19 years old and I'm:</h3>
-<h4>- Software Developer at Bosch🏭</h4>
-<h4>- Bachelor's in Software Engineering, 4th Semester👨‍🎓</h4>  
+<h4>- Software Developer Full-Stack at Bosch🏭</h4>
+<h4>- Bachelor's in Software Engineering, 6th Semester👨‍🎓</h4>  
 <h4>- Associate Degree in Systems Development💻</h4>
 
 <div style="display: inline_block"> 
